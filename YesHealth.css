@@ -1,0 +1,13 @@
+body{
+    background-color: rgba(122, 247, 97, 0.522);
+}
+
+#logo{
+    width: 120px;
+    height: 120px;
+}
+img{
+    width: 300px;
+    height: 300px;
+    border-radius: 15px;
+}
