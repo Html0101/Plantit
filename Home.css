@@ -1,0 +1,21 @@
+body{
+    background-color: rgba(122, 247, 97, 0.522);
+}
+
+h1{
+    font-family: 'Radio Canada', sans-serif;
+    color: rgb(41, 90, 6);
+}
+#logo{
+    width: 120px;
+    height: 120px;
+}
+button{
+    border-radius: 10px;
+    letter-spacing: 1px;
+    width: 50px;
+}
+#backgroundbit{
+    width: 1600px;
+    height: 350px;
+}
